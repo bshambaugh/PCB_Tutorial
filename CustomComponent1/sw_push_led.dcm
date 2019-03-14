@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_PUSH_LED
+D Button
+K Switch
+$ENDCMP
+#
+#End Doc Library
